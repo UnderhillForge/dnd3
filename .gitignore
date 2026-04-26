@@ -1,0 +1,15 @@
+# Luanti / Minetest world data generated at runtime
+*.world
+worlds/
+
+# Compiled Lua bytecode
+*.luac
+
+# macOS artefacts
+.DS_Store
+
+# Editor directories
+.vscode/
+.idea/
+*.swp
+*~
