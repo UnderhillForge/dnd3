@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label">dnd3</string>
+    <string name="loading">Φόρτωση…</string>
+    <string name="notification_channel_name">Γενική ειδοποίηση</string>
+    <string name="notification_channel_description">Ειδοποιήσεις από το dnd3</string>
+    <string name="unzip_notification_title">Φόρτωση του dnd3</string>
+    <string name="unzip_notification_description">Λιγότερο από 1 λεπτό…</string>
+    <string name="game_notification_title">Το dnd3 εκτελείται</string>
+    <string name="ime_dialog_done">Ολοκληρώθηκε</string>
+    <string name="no_web_browser">Δεν βρέθηκε πρόγραμμα περιήγησης ιστού</string>
+</resources>

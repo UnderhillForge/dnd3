@@ -1,0 +1,17 @@
+
+
+-------------
+  Separator
+-------------
+
+2026-04-25 17:20:48: WARNING[Main]: Irrlicht: Could not create context: Failed creating OpenGL context at version requested
+2026-04-25 17:20:48: WARNING[Main]: Irrlicht: Could not create context: Failed creating OpenGL context at version requested
+2026-04-25 17:20:48: WARNING[Main]: Irrlicht: Could not create context: Failed creating OpenGL context at version requested
+2026-04-25 17:20:48: WARNING[Main]: Irrlicht: Could not create context: Failed creating OpenGL context at version requested
+2026-04-25 17:20:48: WARNING[Main]: Irrlicht: Could not create context: Failed creating OpenGL context at version requested
+2026-04-25 17:20:48: WARNING[Main]: Irrlicht: Could not create context: Failed creating OpenGL context at version requested
+2026-04-25 17:20:48: ERROR[Main]: Irrlicht: Could not create window and context!
+2026-04-25 17:20:48: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 69ms
+2026-04-25 17:20:48: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 55ms
+2026-04-25 17:20:48: ACTION[ServerStart]: [dnd3_core] audio subsystem loaded
+2026-04-25 17:20:48: ACTION[ServerStart]: [dnd3_core] time_of_day subsystem loaded

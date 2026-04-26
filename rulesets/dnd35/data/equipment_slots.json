@@ -1,0 +1,11 @@
+[
+  { "id": "head", "label": "Head", "x": 0.90, "y": 0.80 },
+  { "id": "cloak", "label": "Cloak", "x": 0.40, "y": 2.00 },
+  { "id": "chest", "label": "Chest", "x": 1.00, "y": 2.40 },
+  { "id": "hands", "label": "Hands", "x": 0.20, "y": 3.20 },
+  { "id": "main_hand", "label": "Main Hand", "x": 0.20, "y": 4.00 },
+  { "id": "off_hand", "label": "Off Hand", "x": 2.70, "y": 4.00 },
+  { "id": "belt", "label": "Belt", "x": 1.10, "y": 4.30 },
+  { "id": "legs", "label": "Legs", "x": 1.00, "y": 5.00 },
+  { "id": "feet", "label": "Feet", "x": 1.00, "y": 5.70 }
+]

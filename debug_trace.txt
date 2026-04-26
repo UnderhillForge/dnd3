@@ -1,0 +1,21 @@
+
+
+-------------
+  Separator
+-------------
+
+2026-04-25 17:06:53: [Main]: World 'does_not_exist' not available. Available worlds:
+2026-04-25 17:06:53: [Main]: 	test		/Volumes/External Drive/luanti/bin/../worlds/test
+2026-04-25 17:06:53: [Main]: 	Elysium		/Volumes/External Drive/luanti/bin/../worlds/Elysium
+2026-04-25 17:06:53: WARNING[Main]: Irrlicht: Could not create context: Failed creating OpenGL context at version requested
+2026-04-25 17:06:53: WARNING[Main]: Irrlicht: Could not create context: Failed creating OpenGL context at version requested
+2026-04-25 17:06:53: WARNING[Main]: Irrlicht: Could not create context: Failed creating OpenGL context at version requested
+2026-04-25 17:06:53: WARNING[Main]: Irrlicht: Could not create context: Failed creating OpenGL context at version requested
+2026-04-25 17:06:53: WARNING[Main]: Irrlicht: Could not create context: Failed creating OpenGL context at version requested
+2026-04-25 17:06:53: WARNING[Main]: Irrlicht: Could not create context: Failed creating OpenGL context at version requested
+2026-04-25 17:06:53: ERROR[Main]: Irrlicht: Could not create window and context!
+2026-04-25 17:06:53: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 70ms
+2026-04-25 17:06:54: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 98ms
+2026-04-25 17:06:54: ERROR[Main]: ModError: The mod specified as last by the game was not found.
+2026-04-25 17:06:54: ERROR[Main]: Check debug.txt for details.
+2026-04-25 17:06:54: ACTION[ServerStop]: Server: Shutting down

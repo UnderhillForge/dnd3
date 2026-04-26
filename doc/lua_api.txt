@@ -1,0 +1,3 @@
+Moved to lua_api.md
+
+URL: https://github.com/dnd3-org/dnd3/blob/master/doc/lua_api.md

@@ -1,0 +1,18 @@
+[
+  { "id": "blinded", "label": "Blinded" },
+  { "id": "dazed", "label": "Dazed" },
+  { "id": "dazzled", "label": "Dazzled" },
+  { "id": "deafened", "label": "Deafened" },
+  { "id": "exhausted", "label": "Exhausted" },
+  { "id": "fatigued", "label": "Fatigued" },
+  { "id": "frightened", "label": "Frightened" },
+  { "id": "grappling", "label": "Grappling" },
+  { "id": "helpless", "label": "Helpless" },
+  { "id": "invisible", "label": "Invisible" },
+  { "id": "nauseated", "label": "Nauseated" },
+  { "id": "panicked", "label": "Panicked" },
+  { "id": "paralyzed", "label": "Paralyzed" },
+  { "id": "prone", "label": "Prone" },
+  { "id": "shaken", "label": "Shaken" },
+  { "id": "stunned", "label": "Stunned" }
+]

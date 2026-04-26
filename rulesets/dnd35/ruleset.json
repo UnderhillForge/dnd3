@@ -1,0 +1,9 @@
+{
+  "id": "dnd35",
+  "title": "Dungeons and Dragons 3.5e",
+  "version": "0.1.0-dnd3",
+  "engine_min_version": "0.1.0-dnd3",
+  "author": "dnd3 project",
+  "description": "Default dnd3 ruleset placeholder for SRD-driven implementation.",
+  "entry": "init.lua"
+}
