@@ -1,0 +1,2 @@
+-- Item / pickup prefabs go here.
+-- Example: dnd3.register_static_prefab("items/chest_open", { size={x,y,z}, nodes={...} })

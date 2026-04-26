@@ -58,6 +58,8 @@ AppDir
 ## Non-static dnd3 directories or symlinks to these
 /bin/
 /games/*
+!/games/dnd3/
+!/games/dnd3/**
 !/games/devtest/
 /games/devtest/mods/soundstuff/sounds/gitignored_sounds/*
 !/games/devtest/mods/soundstuff/sounds/gitignored_sounds/custom_sounds_here.txt
